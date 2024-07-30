@@ -1,0 +1,5 @@
+print("Russia")
+print("Canada")
+print("China")
+print("Estados Unidos")
+print("Brasil")
