@@ -1,3 +1,3 @@
-# Comentario de unica linha
+# Comentário de única linha e linha em branco
 
-print("Hello, World!")  # Isso imprime uma mensagem na tela
+print("Hello, World!")  # Função que imprime mensagem de saída
