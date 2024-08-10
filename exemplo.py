@@ -1,4 +1,4 @@
-x = 10
-y = 5
-resultado = x - 5 == y
-print(resultado)
+print("Cidades mais populosas do Brasil:")
+print("- São Paulo")
+print("- Rio de Janeiro")
+print("- Brasília")
