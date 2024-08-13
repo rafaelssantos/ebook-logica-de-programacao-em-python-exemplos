@@ -16,11 +16,11 @@ O repositório é dividido em duas pastas principais:
 1. **Instale o Python**. Certifique-se de ter o Python 3.x instalado em seu sistema. Você pode baixar o Python [www.python.org/downloads/](https://www.python.org/downloads/).
 
 2. **Baixe ou clone o repositório**.
-3. **Execute cada `arquivo.py` diretamente pela CLI ou utilizando alguma IDE.
+3. **Execute cada `arquivo.py`** diretamente pela CLI ou utilizando alguma IDE.
 
 ### Scratch
 1. **Instale o Scratch ou crie uma conta na plataforma**. Certifique-se de acessar a plataforma Scratch [scratch.mit.edu](https://scratch.mit.edu/).
 2. **Baixe ou clone o respositório**.
-3. **Execute cada `arquivo.sb3` diretamente pela plataforma Scratch local ou carregue o arquivo para a plataforma online.
+3. **Execute cada `arquivo.sb3`** diretamente pela plataforma Scratch local ou carregue o arquivo para a plataforma online.
 
    
