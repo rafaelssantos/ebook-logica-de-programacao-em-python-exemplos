@@ -3,9 +3,9 @@ resultado = 0
 
 for i in range(5):
     if i >= a:
-        resultado *= i
+        resultado = resultado * i
     else:
-        resultado += i
+        resultado = resultado + i
 
 print("resultado =", resultado)
 print("a =", a)
