@@ -1,3 +1,3 @@
-for i in range(10, -1, -1):
-    print(i)
+for e in range(10, -1, -1):
+    print(e)
 print("Valendo!")

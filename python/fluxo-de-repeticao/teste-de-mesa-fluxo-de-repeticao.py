@@ -1,12 +1,12 @@
 a = 3
 resultado = 0
 
-for i in range(5):
-    if i >= a:
-        resultado = resultado * i
+for e in range(5):
+    if e >= a:
+        resultado = resultado * e
     else:
-        resultado = resultado + i
+        resultado = resultado + e
 
 print("resultado =", resultado)
 print("a =", a)
-print("i =", i)
+print("i =", e)
