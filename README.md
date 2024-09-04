@@ -19,7 +19,7 @@ Cada pasta contém subpastas correspondentes aos capítulos do livro. Os código
 
 ### Scratch
 1. **Instale o Scratch ou crie uma conta na plataforma**. Certifique-se de acessar o site oficial Scratch [scratch.mit.edu](https://scratch.mit.edu/).
-2. **Baixe ou clone o respositório de exemplos**.
+2. **Baixe ou clone este respositório**.
 3. **Execute cada `arquivo.sb3`** diretamente pela plataforma Scratch local ou carregue o arquivo para a plataforma online.
 
    
