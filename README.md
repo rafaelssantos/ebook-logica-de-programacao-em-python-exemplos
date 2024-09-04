@@ -5,16 +5,14 @@ Este repositório contém as implementações dos exemplos apresentados no e-boo
 ## Estrutura do Repositório
 
 O repositório é dividido em duas pastas principais:
-
 - **`python/`**: Contém os scripts Python que implementam os exemplos e exercícios do e-book.
 - **`scratch/`**: Contém os arquivos `.sb3` (Scratch 3.0) correspondentes às implementações em Scratch.
+Cada pasta contém subpastas correspondentes aos capítulos do livro. Os códigos-fonte estão organizados nessa estrutura.
 
 ## Como Usar
 
 ### Python
-
 1. **Instale o Python**. Certifique-se de ter o Python 3.x instalado em seu sistema. Você pode baixar o Python [www.python.org/downloads/](https://www.python.org/downloads/).
-
 2. **Baixe ou clone o repositório de exemplos**.
 3. **Execute cada `arquivo.py`** diretamente pela CLI ou utilizando alguma IDE.
 
