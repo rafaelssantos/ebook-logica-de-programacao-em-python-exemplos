@@ -1,5 +1,8 @@
 n = int(input("Informe a quantidade de números da sequência: "))
 produto = 1        # O valor 1 é elemento neutro da multiplicação
-for e in range(1, n + 1):
-    produto = produto * e   # produto *= e
+
+i = 1
+while i <= n:
+    produto = produto * i   # Alternativamente produto *= i
+    i = i + 1               # i += 1
 print("O produto dos", n, "primeiros números naturais é", produto)
