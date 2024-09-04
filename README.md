@@ -1,11 +1,11 @@
 # Exemplos do livro "Lógica de Programação: Python e abstrações em Scratch"
 
-Este repositório contém as implementações dos exemplos apresentados no e-book **"Lógica de Programação: Python e abstrações em Scratch"**. O e-book visa ensinar conceitos fundamentais de programação e lógica usando duas abordagens complementares: Python e Scratch. Aqui você encontrará códigos-fonte dos conceitos abordados no livro.
+Este repositório contém as implementações dos exemplos apresentados no livro **"Lógica de Programação: Python e abstrações em Scratch"**. O livro visa ensinar conceitos fundamentais de programação e lógica usando duas abordagens complementares: Python e Scratch. Aqui você encontrará códigos-fonte dos conceitos abordados no livro.
 
 ## Estrutura do Repositório
 
 O repositório é dividido em duas pastas principais:
-- **`python/`** Contém os scripts Python que implementam os exemplos e exercícios do e-book.
+- **`python/`** Contém os scripts Python que implementam os exemplos e exercícios do livro.
 - **`scratch/`** Contém os arquivos `.sb3` (Scratch 3.0) correspondentes às implementações em Scratch.
 
 Cada pasta contém subpastas correspondentes aos capítulos do livro. Os códigos-fonte estão organizados nessa estrutura.
