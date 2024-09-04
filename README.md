@@ -22,4 +22,5 @@ Cada pasta contém subpastas correspondentes aos capítulos do livro. Os código
 2. **Baixe ou clone este respositório**.
 3. **Execute cada `arquivo.sb3`** diretamente pela plataforma Scratch local ou carregue o arquivo para a plataforma online.
 
-   
+### Visual Studio Code (Opcional)
+1. **Instale o editor VS Code**. Você pode baixar o instalador em [https://code.visualstudio.com/Download](https://code.visualstudio.com/Download). Escolha a versão apropriada para o seu sistema operacional.
