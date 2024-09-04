@@ -5,8 +5,8 @@ Este repositório contém as implementações dos exemplos apresentados no livro
 ## Estrutura do Repositório
 
 O repositório é dividido em duas pastas principais:
-- **`python/`** Contém os arquivos `.py` correspondentes às implementações em Python.
-- **`scratch/`** Contém os arquivos `.sb3` (Scratch 3.0) correspondentes às implementações em Scratch.
+- **`python/`** Contém os arquivos `.py` que são as implementações em Python.
+- **`scratch/`** Contém os arquivos `.sb3` (Scratch 3.0) que são as implementações em Scratch.
 
 Cada pasta contém subpastas correspondentes aos capítulos do livro. Os códigos-fonte estão organizados nessa estrutura.
 
