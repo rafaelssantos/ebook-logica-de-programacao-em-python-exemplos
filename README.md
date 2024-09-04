@@ -1,6 +1,6 @@
 # Exemplos do livro "Lógica de Programação: Python e abstrações em Scratch"
 
-Este repositório contém as implementações dos exemplos apresentados no livro **"Lógica de Programação: Python e abstrações em Scratch"**. O livro visa ensinar conceitos fundamentais de programação e lógica usando duas abordagens complementares: Python e Scratch. Aqui você encontrará códigos-fonte dos conceitos abordados no livro.
+Este repositório contém as implementações dos exemplos apresentados no livro **"Lógica de Programação: Python e abstrações em Scratch"**. O livro visa ensinar conceitos fundamentais de programação e lógica usando duas abordagens complementares: Python e Scratch. Aqui você encontra códigos-fonte dos conceitos abordados no livro.
 
 ## Estrutura do Repositório
 
