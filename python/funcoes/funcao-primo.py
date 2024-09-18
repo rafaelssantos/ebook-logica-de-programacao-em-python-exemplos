@@ -12,6 +12,7 @@ def e_primo(num):
     else:
         return False
 
+# -------------------------------------------------------------
 
 n = int(input("Deseja encontrar os números até qual número? "))
 for e in range(2, n + 1):

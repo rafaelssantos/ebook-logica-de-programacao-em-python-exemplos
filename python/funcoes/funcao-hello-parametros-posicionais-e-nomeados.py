@@ -1,6 +1,8 @@
 def saudacao_personalizada2(nome1 = "Fulano", nome2 = "Beltrano"):
     print("Hello,", nome1, "e", nome2, "!")
 
+# ---------------------------------------------------------
+
 print("Estamos aprendendo a usar funções!")
 alguem1 = "Guido van Rossum"
 alguem2 = "Alan Turing"

@@ -1,6 +1,8 @@
 def saudacao_personalizada(nome):
     print("Hello,", nome, "!")
 
+# ---------------------------------------------------------
+
 print("Estamos aprendendo a usar funções!")
 alguem = "Guido van Rossum"
 saudacao_personalizada(alguem)            # Valor da variável como argumento
