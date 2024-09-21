@@ -7,7 +7,7 @@ O livro ainda não foi publicado. Neste momento, a versão prévia está dispon�
 
 ## Estrutura do Repositório
 
-O repositório está organizado de forma que cada pasta corresponde a um capítulo do livro de referência. Cada diretório contém arquivos `.py` que são as implementações em Python.
+O repositório está organizado de forma que cada diretório corresponde a um capítulo do livro de referência. Cada diretório contém arquivos `.py` que são as implementações em Python.
 
 ## Como Usar
 
