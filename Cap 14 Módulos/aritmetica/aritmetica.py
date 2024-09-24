@@ -1,4 +1,7 @@
-# aritmetica.py
+"""
+aritmetica.py
+Este módulo fornece funções para operações matemáticas básicas.
+"""
 
 def soma(a, b):
     return a + b
