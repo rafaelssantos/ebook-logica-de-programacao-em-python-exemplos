@@ -1,5 +1,7 @@
-tupla1 = (-5, 4, 2)
-tupla2 = ("Turing", 2, "Guido")
+var1 = (-5.5, 2, 3)
+var2 = (1, True, "Turing")
+var3 = tuple()
 
-print(tupla1)   # (-5, 4, 2)
-print(tupla2)   # ("Turing", 2, "Guido")
+print(var1)   # (-5.5, 2, 3)
+print(var2)   # (1, True, 'Turing')
+print(var3)   # ()
