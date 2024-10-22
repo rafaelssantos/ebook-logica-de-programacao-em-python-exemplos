@@ -5,4 +5,4 @@ diferenca_simetrica = conjunto1.symmetric_difference(conjunto2)
 # ou
 diferenca_simetrica = conjunto1 ^ conjunto2
 
-print(diferenca_simetrica)  # Saída: {1, 4}
+print(diferenca_simetrica)  # {1, 4}

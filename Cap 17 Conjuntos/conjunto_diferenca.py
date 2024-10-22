@@ -5,4 +5,4 @@ diferenca = conjunto1.difference(conjunto2)
 # ou
 diferenca = conjunto1 - conjunto2
 
-print(diferenca)  # Saída: {1}
+print(diferenca)  # {1}

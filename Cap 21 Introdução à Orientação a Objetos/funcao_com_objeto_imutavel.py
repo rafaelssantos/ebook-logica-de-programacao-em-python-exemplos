@@ -3,4 +3,4 @@ def adicionar_int(numero):
 
 numero = 3
 adicionar_int(numero)
-print(numero)  # Saída: 3
+print(numero)  # 3

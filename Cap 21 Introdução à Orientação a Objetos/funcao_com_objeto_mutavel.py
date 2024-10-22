@@ -3,4 +3,4 @@ def adicionar_elemento(lista):
 
 lista = [1, 2, 3]
 adicionar_elemento(lista)
-print(lista)  # Saída: [1, 2, 3, 4]
+print(lista)  # [1, 2, 3, 4]
