@@ -1,5 +1,6 @@
 frase = "Python é uma linguagem de programação"
-if "Python" in frase:
-    print("A palavra 'Python' foi encontrada na frase.")
-else:
-    print("A palavra 'Python' não foi encontrada na frase.")
+busca = "Python" in frase   
+indice = frase.find("Java")
+
+print(busca)
+print(indice)
