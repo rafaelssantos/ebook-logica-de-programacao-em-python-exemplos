@@ -1,5 +1,8 @@
-valor_inteiro = int(input("Insira um número inteiro: "))
-valor_real = complex(input("Insira um número complexo: "))
+valor1_em_str = "2.5"
+valor2_em_str = "5"
 
-valor_string = str(valor_inteiro)
-print(type(valor_string))
+valor1 = float(valor1_em_str)
+valor2 = int(valor2_em_str)
+
+print(valor1)
+print(valor2)

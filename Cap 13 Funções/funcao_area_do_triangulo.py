@@ -1,4 +1,4 @@
-def calcular_area(base, altura):
+def calc_area_triangulo(base, altura):
     area = (base * altura) / 2
     return area
 
@@ -6,5 +6,5 @@ def calcular_area(base, altura):
 
 b = float(input("Informe a base: "))
 h = float(input("Informe a altura: "))
-a = calcular_area(b, h)
+a = calc_area_triangulo(b, h)
 print("O valor da área do triângulo é", a)
