@@ -1,3 +1,3 @@
-num1 = 4 # Declaração da variável num1 e atribuição do valor 4
-num2 = 7 # Declaração da variável num2 e atribuição do valor 7
-print("Valores:", num1, "e", num2) # Impressão de num1 e num2
+num = 20    # Declaração da variável num e atribuição do valor 20
+num = 2     # Atribuição do valor 2 à variável num
+print("Valor: ", num)  # Impressão de num
