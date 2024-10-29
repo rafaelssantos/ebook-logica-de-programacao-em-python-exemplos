@@ -1,7 +1,7 @@
 estudantes = {
     "João": ["Matemática", "Ciência", "História"],
     "Maria": ["Arte", "Literatura"],
-    "Pedro": ["Física", "Química", "Biologia"],
+    "Pedro": ["Física", "Química", "Biologia"]
 }
 
 # Acessando as disciplinas de Maria
