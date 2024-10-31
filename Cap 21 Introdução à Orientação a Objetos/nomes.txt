@@ -1,0 +1,5 @@
+Alan Mathison Turing
+Dennis Ritchie
+Grace Hopper
+Guido van Rossum
+Ken Thompson
