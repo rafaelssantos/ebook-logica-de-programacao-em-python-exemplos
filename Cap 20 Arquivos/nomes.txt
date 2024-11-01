@@ -1,5 +1,4 @@
 Alan Mathison Turing
-Dennis Ritchie
-Grace Hopper
-Guido van Rossum
-Ken Thompson
+Albert Einstein
+Charles Darwin
+Isaac Newton

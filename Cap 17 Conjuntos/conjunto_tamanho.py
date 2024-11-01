@@ -1,4 +1,4 @@
-conjunto = {1, 2, "Guido van Rossum", 4, 5}
+conjunto = {1, 2, "Albert  Einstein", 4, 5}
 
 tamanho = len(conjunto)
 print(tamanho)  # 5

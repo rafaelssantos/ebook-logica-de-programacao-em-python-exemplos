@@ -1,4 +1,4 @@
-nome = "Guido van Rossum"
+nome = "Albert  Einstein"
 
 soma = nome + nome
 multiplicacao = nome * 3

@@ -1,4 +1,4 @@
 nome = "Alan Turing"
-Nome = "Guido van Rossum"
+Nome = "Albert  Einstein"
 print(nome)
 print(Nome)
