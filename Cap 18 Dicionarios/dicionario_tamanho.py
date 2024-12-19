@@ -11,5 +11,5 @@ produtos_quitanda= {
     "tomate": 6.75,
 }
 
-print(len(produtos_papelaria))  # 3
-print(len(produtos_quitanda))   # 4
+print(len(produtos_papelaria))  # 4
+print(len(produtos_quitanda))   # 3
