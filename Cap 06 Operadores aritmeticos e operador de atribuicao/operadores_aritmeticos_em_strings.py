@@ -1,4 +1,4 @@
-nome = "Albert  Einstein"
+nome = "John von Neumann"
 
 soma = nome + nome
 multiplicacao = nome * 3

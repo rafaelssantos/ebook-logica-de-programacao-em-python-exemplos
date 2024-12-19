@@ -1,4 +1,4 @@
 Alan Mathison Turing
-Albert Einstein
-Charles Darwin
-Isaac Newton
+John von Neumann
+Donald Knuth
+Edsger Dijkstra

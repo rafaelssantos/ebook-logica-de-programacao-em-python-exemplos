@@ -4,7 +4,7 @@ def saudacao_personalizada(nome):
 # ---------------------------------------------------------
 
 print("Estamos aprendendo a usar funções!")
-alguem = "Albert  Einstein"
+alguem = "Alan Turing"
 saudacao_personalizada(alguem)            # Valor da variável como argumento
-saudacao_personalizada("Alan Turing")     # Valor do literal como argumento
+saudacao_personalizada("John von Neumann")     # Valor do literal como argumento
 print("Continuação do programa após a execução da função.")
