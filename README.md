@@ -5,7 +5,7 @@ Este repositório contém as implementações dos exemplos apresentados no livro
 ## Livro
 O livro ainda não foi publicado. Neste momento, a versão prévia está disponível apenas aos alunos do [IFPR Arapongas](https://arapongas.ifpr.edu.br/).
 
-## Estrutura do Repositório
+## Estrutura do repositório
 
 O repositório está organizado de forma que cada diretório corresponde a um capítulo do livro de referência. Cada diretório contém arquivos `.py` que são as implementações em Python.
 
