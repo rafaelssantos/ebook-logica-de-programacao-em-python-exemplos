@@ -12,6 +12,10 @@ O repositório está organizado de forma que cada diretório corresponde a um ca
 ## Índice de exemplos
 ### Cap 01
 - [Código-fonte 1.1](https://github.com/rafaelssantos/logica-de-programacao-em-python-exemplos/blob/main/Cap%2002%20Algoritmo/dobro_de_um_numero.py)
+### Cap 04
+- [Código-fonte 4.1](https://github.com/rafaelssantos/logica-de-programacao-em-python-exemplos/blob/main/Cap%2004%20Primeiro%20programa%20e%20execucao%20sequencial/hello_world.py)
+- [Código-fonte 4.2](https://github.com/rafaelssantos/logica-de-programacao-em-python-exemplos/blob/main/Cap%2004%20Primeiro%20programa%20e%20execucao%20sequencial/hello_world_com_dois_parametros.py)
+- [Código-fonte 4.3](https://github.com/rafaelssantos/logica-de-programacao-em-python-exemplos/blob/main/Cap%2004%20Primeiro%20programa%20e%20execucao%20sequencial/hello_world_com_comentario_de_unica_linha.py)
 
 ## Como Usar
 
