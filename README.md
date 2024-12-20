@@ -11,7 +11,7 @@ O repositório está organizado de forma que cada diretório corresponde a um ca
 
 ## Índice de exemplos
 ### Cap 01
-- [Código-fonte 1.1](https://www.python.org/downloads/)
+- [Código-fonte 1.1]([https://www.python.org/downloads/](https://github.com/rafaelssantos/logica-de-programacao-em-python-exemplos/blob/main/Cap%2002%20Algoritmo/dobro_de_um_numero.py))
 
 ## Como Usar
 
